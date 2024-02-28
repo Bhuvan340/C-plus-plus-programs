@@ -1,0 +1,13 @@
+// first program simple
+#include <iostream>
+using namespace std;
+int main() {
+    // Write C++ code here
+    int n;
+    cout <<"enter the number"<<endl;
+    cin>>n;
+    cout<<"the numebr entered is"<<endl<<n;
+    return 0;
+}
+
+
